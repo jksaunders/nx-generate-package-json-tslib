@@ -32,6 +32,8 @@
   },
   "dependencies": {
     "express": "4.17.2",
+    "fastify": "^4.3.0",
+    "mercurius": "^10.1.0",
     "tslib": "^2.3.0"
   }
 }
